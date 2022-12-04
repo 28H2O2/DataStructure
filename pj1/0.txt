@@ -1,0 +1,4 @@
+Word Part-Of-Speech Frequency
+a N 22.0
+b M 3.0
+c S 6.0
